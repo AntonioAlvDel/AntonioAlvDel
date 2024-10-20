@@ -1,15 +1,15 @@
-# 👨‍💻 Antonio Álvarez Delgado | Systems & Data Engineer
+<h1 align="center">Hello! 👋 I'm <strong>Antonio</strong></h1>
 
-Hello! 👋 I'm **Antonio Álvarez Delgado**, a **Systems Engineer** specialized in **Big Data** and **Business Analytics**. Passionate about technology, programming, and solving complex challenges. 🚀
+![BackgroundPhoto](https://github.com/user-attachments/assets/e60491c1-3e67-480f-97e3-645a4eb8d677)
 
-I have a **degree in Aerospace Engineering** and a **Master's in Big Data and Business Analytics**, with experience in both systems engineering and data processing. My career has focused on solving complex problems through data-driven solutions, and I'm always eager to learn and contribute to dynamic environments.
+A **Systems Engineer** specialized in **Big Data** and **Business Analytics**. Passionate about technology, programming, and solving complex challenges. 🚀
 
 ---
 
 ## 🌟 About Me
 
 - 🎓 **Education**: Aerospace Engineer + Master's in Big Data and Business Analytics
-- 💻 **Technologies**: Python, SQL, R, Visual Basic, Hadoop, Spark, Power BI
+- 💻 **Technologies**: Python, SQL, R, Hadoop, Power BI, Jira, Jupyter, Scikit-learn, BigQuery
 - 🚀 **Current Role**: Systems Engineer at Airbus
 - 🎯 **Goal**: Innovate and solve challenges through data analysis
 
