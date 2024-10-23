@@ -41,16 +41,6 @@ A **Systems Engineer** specialized in **Big Data** and **Business Analytics**. P
 
 ---
 
-## 📚 Education
-
-- 🎓 **Master's in Big Data and Business Analytics**  
-  IMF Smart Education + Indra + Catholic University of Ávila (2022 - 2023)
-  
-- 🎓 **Degree in Aerospace Engineering**  
-  University of Cádiz (2016 - 2021)
-
----
-
 ## 🌍 Languages
 
 - 🇪🇸 **Spanish**: Native
